@@ -65,7 +65,7 @@ class Bird extends Animal { /* ...class code here */ }
 class Eagle extends Bird { /* ...class code here */ }
 ```
 
-OOP Principles: Encapsulation
+## OOP Principles: Encapsulation
 
 Encapsulation has to do with making a code implementation "hidden" from other users, in the sense that they do not have to know how my code works in order to "consume" the code.
 
