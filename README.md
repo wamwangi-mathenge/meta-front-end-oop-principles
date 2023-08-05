@@ -121,7 +121,9 @@ bicycle.bell(); // "Get away, please"
 
 I can also access the bell() method on the door, using the syntax:
 
+```
 door.bell(); // "Come here, please"
+```
 
 At this point, one can conclude that the exact same name of the method can have the exact opposite intent, based on what object it is used for.
 
